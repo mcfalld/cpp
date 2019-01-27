@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/animal.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/cow.h
+animal.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/animal.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/dog.h
+animal.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/animal.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/farm.h
+animal.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/animal.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/horse.h
+animal.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/animal.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/main.cpp
+iostream
+-
+farm.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/farm.h
+horse.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/horse.h
+cow.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/cow.h
+dog.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment4/dog.h
+

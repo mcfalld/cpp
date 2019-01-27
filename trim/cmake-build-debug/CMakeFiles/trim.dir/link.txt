@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libtrim.a  CMakeFiles/trim.dir/trim.cpp.o
+/usr/bin/ranlib.exe libtrim.a

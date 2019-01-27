@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/continents.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/main.cpp
+iostream
+-
+planet.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/planet.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/moons.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/planet.h
+iomanip
+-
+moons.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/moons.h
+continents.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/continents.h
+water.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/water.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/assignment3/water.h
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/trim/trim.cpp
+trim.h
+/cygdrive/c/Users/Derrick/Desktop/C/c++/trim/trim.h
+
+/cygdrive/c/Users/Derrick/Desktop/C/c++/trim/trim.h
+string
+-
+
